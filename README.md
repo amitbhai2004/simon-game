@@ -1,2 +1,2 @@
 # simon-game
-try to explore github
+excited   to use  github
