@@ -1,2 +1,2 @@
 # simon-game
-excited   to use  github
+excited   to use  github.
